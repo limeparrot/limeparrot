@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @limeparrot
+- 👋 Hi, I’m Georgiy(@limeparrot)
 - 👀 I’m interested to be better by the day
 - 🌱 I’m currently learning RE&MA, C++/C#/Python programming
 - 💞️ I’m looking to collaborate on Threat intelligence
