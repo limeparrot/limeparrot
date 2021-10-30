@@ -2,7 +2,7 @@
 - 👀 I’m interested to be better by the day
 - 🌱 I’m currently learning RE&MA, C++/C#/Python programming
 - 💞️ I’m looking to collaborate on Threat intelligence
-- 📫 How to reach me: write me better to ВК(../id/limeparrot) or to telegram @Tictonix
+- 📫 How to reach me: write me better to ВК(vk.com/limeparrot) or to telegram @Tictonix
 
 - ИКБСП
 <!---
