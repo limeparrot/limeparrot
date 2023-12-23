@@ -15,6 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![funcat](https://c.tenor.com/nXJoXzdpDzoAAAAd/tenor.gif)
-
+![fun cat](https://c.tenor.com/Wx3bGh80AWkAAAAd/tenor.gif)
 
