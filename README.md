@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i2z1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limeparrot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
