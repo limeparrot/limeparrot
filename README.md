@@ -15,4 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![funcat](https://media1.tenor.com/m/nXJoXzdpDzoAAAAd/komaru-comaru.gif)
+![funcat](https://c.tenor.com/nXJoXzdpDzoAAAAd/tenor.gif)
+
+
